@@ -5,7 +5,7 @@
 #include "dvacore/config/UnicodeTypes.h"
 #endif
 
-#define TXMP_STRING_TYPE	dvacore::StdString
+#define TXMP_STRING_TYPE	dvacore::StdStr
 
 #if ASL_TARGET_OS_MAC
 #define MAC_ENV 1
